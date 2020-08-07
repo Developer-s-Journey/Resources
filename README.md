@@ -11,3 +11,6 @@ A list of various resources I personally used or seemed useful to me.
 - [Byte Vitae](https://cv.bytevitae.com/)
 - [Software Engineer Resume Builder](https://gitconnected.com/resume-builder)
 - [cvmaker](https://cvmkr.com)
+- [flowcv](https://flowcv.io/)
+- [Jobscan](https://www.jobscan.co/)
+- [WordClouds.com](https://www.wordclouds.com/)
