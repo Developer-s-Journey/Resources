@@ -20,8 +20,8 @@ A list of various resources I personally used or seemed useful to me.
 ## Web Developer
 
 - Icons
-  - https://fontawesome.com
-  - https://www.flaticon.com/categories
-  - https://glyphsearch.com
+  - [Font Awesome](https://fontawesome.com)
+  - [Flat Icon](https://www.flaticon.com/categories)
+  - [Glyph Search](https://glyphsearch.com)
 - Code Formatter
-  - https://codebeautify.org
+  - [Code Beautify](https://codebeautify.org)
